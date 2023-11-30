@@ -1,1 +1,1 @@
-# ubosscrypto
+# sqlut starkent=crypto

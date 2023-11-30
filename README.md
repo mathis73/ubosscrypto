@@ -1,1 +1,2 @@
 # sqlut starkent=crypto
+fzjma

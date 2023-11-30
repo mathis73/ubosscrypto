@@ -1,2 +1,2 @@
-# sqlut starkent=crypto
+# sqlut starkenrzft=crypto
 fzjma
